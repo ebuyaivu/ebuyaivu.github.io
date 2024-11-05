@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ebuyaivu.github.io/MAw/sitemap_index.txt
+Sitemap: https://ebuyaivu.github.io/dXP/sitemap_index.txt
+Sitemap: https://ebuyaivu.github.io/iDQ/sitemap_index.txt
+Sitemap: https://ebuyaivu.github.io/mDh/sitemap_index.txt
